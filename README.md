@@ -236,4 +236,4 @@ This repository serves as the official landing page for Ventrilo. The software i
 **Get the most recent version of Ventrilo today!**
 
 ---
-**Last updated:** 2026-10-28 16:54:10 UTC
+**Last updated:** 2026-10-28 21:26:53 UTC
